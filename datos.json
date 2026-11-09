@@ -1,0 +1,6 @@
+{
+    "distancia_cm": 12.5,
+    "pwm_motor":     180,
+    "estado":   "ALERTA",
+    "%pila":         1.0
+}
