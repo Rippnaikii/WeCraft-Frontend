@@ -1,4 +1,3 @@
-// Inspirado en el codigo de Makerguides y modificado por Reptika
 #include "Adafruit_VL53L0X.h"
 
 Adafruit_VL53L0X sensor = Adafruit_VL53L0X();
